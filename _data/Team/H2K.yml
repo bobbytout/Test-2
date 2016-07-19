@@ -1,0 +1,34 @@
+username: H2K
+
+org :
+ - name: Hard2kill
+ - shname: H2K
+
+players:
+ - pseudo: Freeze
+   pos: ADCarry
+   spos: ADC
+     
+ - pseudo: Vander
+   pos: Support
+   spos: Sup
+   
+ - pseudo: Odoamne
+   pos: Toplaner
+   spos: Top
+     
+ - pseudo: Ryu
+   pos: Midlaner
+   spos: Mid
+     
+ - pseudo: Jankos
+   pos: Jungler
+   spos: Jgl
+     
+ - pseudo: Bobbylesub
+   pos: Substitue / Toplaner
+   spos: Sub Top
+     
+staff:
+ - pseudo: Prolly
+   pos: Coach

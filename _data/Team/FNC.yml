@@ -1,0 +1,34 @@
+username: FNC
+
+org:
+ - name: Fnatic
+ - shname: FNC
+
+players:
+ - pseudo: Rekkles
+   pos: ADCarry
+   spos: ADC
+    
+ - pseudo: Yellowstar
+   pos: Support
+   spos: Sup
+   
+ - pseudo: Kikis
+   pos: Toplaner
+   spos: Top
+     
+ - pseudo: Febiven
+   pos: Midlaner
+   spos: Mid
+     
+ - pseudo: Spirit
+   pos: Jungler
+   spos: Jgl
+     
+ - pseudo: Werlyb
+   pos: Substitue / Toplaner
+   spos: Sub Top
+     
+staff:
+ - pseudo: Deilor
+   pos: Coach
